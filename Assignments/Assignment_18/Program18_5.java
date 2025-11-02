@@ -24,7 +24,7 @@ import java.util.Scanner;
 //
 //  Class Name       : Logic
 //  Description      : This class contains a method to check whether 
-//                     a number is positive, negative, or zero.
+//                     a given number is positive, negative, or zero.
 //  Author           : Chakradhar Rawaji Dugade
 //  Date             : 02/11/2025
 //
@@ -80,3 +80,4 @@ class Program18_5
 //  Input : 0      Output : Number is Zero
 //
 /////////////////////////////////////////////////////////////////////
+
